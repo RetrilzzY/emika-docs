@@ -2,4 +2,4 @@
 
 ---
 
-# [Документация](https://emika.end.lol)
+# [Документация](https://emika.ehd.lol)
