@@ -142,13 +142,13 @@ layout:
 
 `!img-sdxl breathtaking night street of Tokyo, cars, neon lights. award-winning, professional, highly detailed`
 
-&#x20;![SDXL\_Output](<../.gitbook/assets/image (10).png>)
+&#x20;![SDXL\_Output](<../.gitbook/assets/sdxl_ex.png>)
 
 
 
 `/img-kandinsky prompt: A highly photorealistic image of a off road race track, complete with precise replicas of the world’s most iconic heavy noun, captured at the moment of a sharp turn, with smoke and sparks flying from under the wheels and the noun drifting around the bend. The image captures the excitement of the moment, with happy and noisy fans cheering and waving in the background. (The image is depicted at dusk, with the headlights)`
 
-&#x20;![Kandinsky\_Output](<../.gitbook/assets/image (9).png>)
+&#x20;![Kandinsky\_Output](<../.gitbook/assets/kandinsky_ex.png>)
 
 </details>
 

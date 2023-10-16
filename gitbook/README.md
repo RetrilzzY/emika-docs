@@ -14,7 +14,7 @@ layout:
 
 # 💜 Welcome
 
-## <img src=".gitbook/assets/image (8).png" alt="" data-size="line"> Emika#2626
+## <img src=".gitbook/assets/emika_ic.png" alt="" data-size="line"> Emika#2626
 
 _Аниме изображения/гифки, Экономика, Чат ИИ gpt-3.5-turbo, ИИ генерация изображений Dall-E/SDXL/K_andinsky 2.2_, Модерация и другое_!
 
