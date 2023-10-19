@@ -17,7 +17,7 @@ layout:
 ***
 
 {% hint style="info" %}
-#### Подсказка&#x20;
+**Подсказка**
 
 **`<...>`** - обязательный аргумент\
 **`[...]`** - необязательный аргумент
@@ -42,7 +42,7 @@ layout:
 
 <summary><code>/economy-settings</code> - Управление модулем экономики</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/economy-settings settings: перевод и принятие средств с других серверов action: разрешить`
 
@@ -52,7 +52,7 @@ layout:
 
 <summary><code>/manage-modules</code> - Управление модулями бота</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/manage-modules module: economy action: отключить`
 
@@ -66,7 +66,7 @@ layout:
 
 <summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме-стиле</summary>
 
-**Примеры:**&#x20;
+**Примеры:**
 
 `/waifu-im tag: waifu tag2: uniform`
 
@@ -78,7 +78,7 @@ layout:
 
 <summary><code>/image-search</code> – Поиск изображения по текстовому запросу</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/image-search query: apple`
 
@@ -88,7 +88,7 @@ layout:
 
 <summary><code>/magic-ball, /nekos-ball</code> – Один верный ответ на твой вопрос (но это не точно)</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/magic-ball question: Это вопрос?`
 
@@ -98,7 +98,7 @@ layout:
 
 <summary><code>/embed-pro</code> - Полезный инструмент для создания эмбед сообщений</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/embed-pro title: Это эмбед description: Да, это так color: purple text: @Emika#2626`
 
@@ -108,7 +108,7 @@ layout:
 
 <summary><code>/play, /stop</code> - Команды управление радио (по жанрам)</summary>
 
-**Пример:**&#x20;
+**Пример:**
 
 `/play genre: lo-fi`
 
@@ -122,7 +122,7 @@ layout:
 
 `gpt <промпт>`
 
-**Примеры:**&#x20;
+**Примеры:**
 
 `!gpt Привет кто ты?`
 
@@ -138,17 +138,15 @@ layout:
 
 `img-dalle <промпт>` | `img-sdxl <промпт>` | `img-kandinsky <промпт>`
 
-**Примеры:**&#x20;
+**Примеры:**
 
 `!img-sdxl breathtaking night street of Tokyo, cars, neon lights. award-winning, professional, highly detailed`
 
-&#x20;![SDXL\_Output](<../.gitbook/assets/sdxl_ex.png>)
-
-
+<img src="../.gitbook/assets/sdxl_ex (2).png" alt="SDXL_Output" data-size="original">
 
 `/img-kandinsky prompt: A highly photorealistic image of a off road race track, complete with precise replicas of the world’s most iconic heavy noun, captured at the moment of a sharp turn, with smoke and sparks flying from under the wheels and the noun drifting around the bend. The image captures the excitement of the moment, with happy and noisy fans cheering and waving in the background. (The image is depicted at dusk, with the headlights)`
 
-&#x20;![Kandinsky\_Output](<../.gitbook/assets/kandinsky_ex.png>)
+<img src="../.gitbook/assets/kandinsky_ex (1).png" alt="Kandinsky_Output" data-size="original">
 
 </details>
 
@@ -160,7 +158,7 @@ layout:
 
 `user-info [упоминание участника]`
 
-**Пример:**&#x20;
+**Пример:**
 
 `!user-info @Retrilzzy`
 
@@ -170,8 +168,7 @@ layout:
 
 <summary><code>server-info</code> - Узнать информацию о сервере</summary>
 
-**Пример:** \
+**Пример:**\
 `!server-info`
 
 </details>
-
