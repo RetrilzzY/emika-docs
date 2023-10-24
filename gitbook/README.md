@@ -16,7 +16,7 @@ layout:
 
 ## <img src=".gitbook/assets/emika_ic (1).png" alt="" data-size="line"> Emika#2626
 
-_Аниме изображения/гифки, Экономика, Чат ИИ gpt-3.5-turbo, ИИ генерация изображений Dall-E/SDXL/K\_andinsky 2.2_, Модерация и другое\_!
+_Аниме изображения/гифки, Экономика, Чат ИИ gpt-3.5-turbo/gpt-4, ИИ генерация изображений Dall-E 2/SDXL/Kandinsky 2.2_, Модерация и другое!
 
 {% embed url="https://invite.emika.ehd.lol" %}
 
