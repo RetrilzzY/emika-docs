@@ -1,5 +1,10 @@
-**[Добавить](https://invite.emika.ehd.lol/) Emika на свой Discord сервер**
+<hr>
 
+> [!WARNING]
+> **Проект EM-DSbt (Emika) был закрыт, но спустя некоторое время был доработан, возобновлен и переименован в [RZX-bot](https://rzx-bot.top)**
+
+<hr>
+<br>
 
 ### Документация на [GitBook](https://emika.ehd.lol)
 
